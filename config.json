@@ -1,9 +1,9 @@
 {
   "chivas": {
-    "dev": 0,
+    "dev": 1,
     "iconApp" : "mascote2",
-    "urlLogo" : "https://i.imgur.com/IXVjwS1.png",
-    "urlLogoTabela" : "https://i.imgur.com/jIeHvsp.png",
+    "urlLogo" : "",
+    "urlLogoTabela" : "",
     "bgTopo" : "",
     "nomeGeral" : "Dale Chivas",
     "nomeHomeJogo" : "Chivas",
